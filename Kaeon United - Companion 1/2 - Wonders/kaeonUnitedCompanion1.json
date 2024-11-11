@@ -1,0 +1,34 @@
+{
+	"use": {
+		"entities": {
+			"kaeonUnitedCompanion1": {
+				"components": {
+					"META": {
+						"environment": "javascript",
+						"type": "library"
+					}
+				},
+				"entities": {
+					"external": {
+						"entities": {
+							"onePlus-1": {
+								"components": {
+									"locations": [
+										""
+									]
+								}
+							},
+							"vision-1": {
+								"components": {
+									"locations": [
+										""
+									]
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
