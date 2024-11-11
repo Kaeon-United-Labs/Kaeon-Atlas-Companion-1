@@ -1,5 +1,5 @@
-<h1 align="center">KU Use XP</h1>
+<h1 align="center">Kaeon United - Companion 1</h1>
 
 <h2 align="center">Philosophy</h2>
 
-This is KU Use XP.
+This is Kaeon United - Companion 1.
