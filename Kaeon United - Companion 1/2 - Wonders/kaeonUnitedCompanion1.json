@@ -14,14 +14,14 @@
 							"onePlus-1": {
 								"components": {
 									"locations": [
-										""
+										"https://raw.githubusercontent.com/Kaeon-United-Labs/Kaeon-United-Companion-1/refs/heads/main/Kaeon%20United%20-%20Companion%201/2%20-%20Wonders/1%20-%20External/1%20-%20ONE%2B/onePlus.js"
 									]
 								}
 							},
 							"vision-1": {
 								"components": {
 									"locations": [
-										""
+										"https://raw.githubusercontent.com/Kaeon-United-Labs/Kaeon-United-Companion-1/refs/heads/main/Kaeon%20United%20-%20Companion%201/2%20-%20Wonders/1%20-%20External/2%20-%20Vision/vision.js"
 									]
 								}
 							}
